@@ -4,7 +4,6 @@
 
 This project is a Flask REST API built for the Phase 4 Code Challenge. It demonstrates understanding of models, relationships, validations, RESTful routing, and structured JSON responses using Flask, SQLAlchemy, and Flask-Migrate.
 
-The goal is to implement the **minimum required functionality** correctly and cleanly so that all rubric criteria are met.
 
 ---
 
